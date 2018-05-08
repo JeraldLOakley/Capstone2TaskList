@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capstone2", "Capstone2\Caps
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A4BD29A-2528-41A9-B5E1-CADEDE678526}"
 	ProjectSection(SolutionItems) = preProject
-		.gitignore = .gitignore
+		TextFile1.txt = TextFile1.txt
 	EndProjectSection
 EndProject
 Global
